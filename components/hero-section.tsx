@@ -24,7 +24,7 @@ export function HeroSection() {
           <div className="text-center lg:text-left animate-fade-in-up order-2 lg:order-1">
             <div className="inline-flex items-center px-3 py-2 sm:px-4 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white/90 text-xs sm:text-sm mb-4 sm:mb-6">
               <span className="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse" />
-              Session 2024 • New components
+              Session 2025 • New components
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-white mb-4 sm:mb-6 text-balance leading-tight">
