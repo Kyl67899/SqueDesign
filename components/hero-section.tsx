@@ -68,7 +68,7 @@ export function HeroSection() {
               </Button>
               <span className="text-xs sm:text-sm text-center sm:text-left">
                 See also:{" "}
-                <a href="#" className="text-white hover:underline">
+                <a href="/fraud" className="text-white hover:underline">
                   Radar for powered fraud protection
                 </a>
               </span>

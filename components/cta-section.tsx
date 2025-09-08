@@ -46,11 +46,11 @@ export function CTASection() {
 
           <p className="text-xs text-muted-foreground mt-6">
             By signing up, you agree to our{" "}
-            <a href="#" className="text-accent hover:underline">
+            <a href="/terms" className="text-accent hover:underline">
               Terms of Service
             </a>{" "}
             and{" "}
-            <a href="#" className="text-accent hover:underline">
+            <a href="/privacy" className="text-accent hover:underline">
               Privacy Policy
             </a>
           </p>

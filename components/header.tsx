@@ -39,25 +39,25 @@ export function Header() {
               Products
             </a>
             <a
-              href="#solutions"
+              href="/solutions"
               className="text-sm lg:text-base text-muted-foreground hover:text-foreground transition-colors"
             >
               Solutions
             </a>
             <a
-              href="#developers"
+              href="/developers"
               className="text-sm lg:text-base text-muted-foreground hover:text-foreground transition-colors"
             >
               Developers
             </a>
             <a
-              href="#resources"
+              href="/resources"
               className="text-sm lg:text-base text-muted-foreground hover:text-foreground transition-colors"
             >
               Resources
             </a>
             <a
-              href="#pricing"
+              href="/pricing"
               className="text-sm lg:text-base text-muted-foreground hover:text-foreground transition-colors"
             >
               Pricing
@@ -98,25 +98,25 @@ export function Header() {
                 Products
               </a>
               <a
-                href="#solutions"
+                href="/solutions"
                 className="text-muted-foreground hover:text-foreground transition-colors py-2 px-2 -mx-2 rounded-md hover:bg-muted/50"
               >
                 Solutions
               </a>
               <a
-                href="#developers"
+                href="/developers"
                 className="text-muted-foreground hover:text-foreground transition-colors py-2 px-2 -mx-2 rounded-md hover:bg-muted/50"
               >
                 Developers
               </a>
               <a
-                href="#resources"
+                href="/resources"
                 className="text-muted-foreground hover:text-foreground transition-colors py-2 px-2 -mx-2 rounded-md hover:bg-muted/50"
               >
                 Resources
               </a>
               <a
-                href="#pricing"
+                href="/pricing"
                 className="text-muted-foreground hover:text-foreground transition-colors py-2 px-2 -mx-2 rounded-md hover:bg-muted/50"
               >
                 Pricing
