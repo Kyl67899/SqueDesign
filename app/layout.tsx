@@ -29,7 +29,6 @@ export const metadata: Metadata = {
     description: "Transform your digital products with our premium UI components, design systems, and templates.",
     creator: "@squedesign",
   },
-  generator: "v0.app",
 }
 
 export default function RootLayout({
